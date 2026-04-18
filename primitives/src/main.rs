@@ -20,6 +20,12 @@ fn main() {
 
     println!("{} {} {}", logical, a_float, an_integer);
 
+    //Mutable variable
+
+    let mut x = 12i32;
+
+    println!("{}",x);
+
 
 
     

@@ -6,10 +6,12 @@
       <sourceFolder url="file://$MODULE_DIR$/helloworld/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/primitives/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/variables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/arrays/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/guess_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/helloworld/target" />
       <excludeFolder url="file://$MODULE_DIR$/primitives/target" />
       <excludeFolder url="file://$MODULE_DIR$/variables/target" />
+      <excludeFolder url="file://$MODULE_DIR$/arrays/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
